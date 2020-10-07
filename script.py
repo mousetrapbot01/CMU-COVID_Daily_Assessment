@@ -34,7 +34,7 @@ chrome_path = OS_type
 webbrowser.get(chrome_path).open(url)
 
 # wait to give chrome enough time to open
-time.sleep(1)
+time.sleep(0.5)
 
 pyautogui.hotkey('tab')
 pyautogui.hotkey('tab')
