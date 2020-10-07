@@ -1,6 +1,6 @@
 # CMU-Self-Assessment
 
-This script is for the lazy CMU students who wish to participate in the COVID daily-assessment
+This script is for the lazy CMU students who wish to participate in the COVID daily-assessment. 
 Use this for your own good! I do not endorse fraudulant or malicious actions regarding
 self-reporting of COVID.
 
