@@ -15,7 +15,7 @@ The default values are (False, False, 0)
 3. temp_higher   = 1 - Yes,    0 - No,    -1 - I didn't check
 
 ## Requirements
-python version: python 3.x.x          (anything will do, mine: 3.7.7)
+python version: python 3.x.x          (anything will do, mine: 3.7.7)\n
 packages:       webbrowser, pyautogui (can be installed from pip - pip install _)
 
 You need to be signed in with your andrew email in your default browser
