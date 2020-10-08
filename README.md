@@ -1,16 +1,15 @@
 # CMU-Self-Assessment
 
 This script is for the lazy CMU students who wish to participate in the COVID daily-assessment. 
-Use this for your own good! I do not endorse fraudulant or malicious actions regarding
-self-reporting of COVID.
+Use this for your own good!
 
-I am by no means a python master. Feel free to give me feedback.
+I do not endorse fraudulant or malicious actions regarding self-reporting of COVID.
 
 ## Variables
 The variables represent each of the items in the assessment.
 1. close_contact = True - Have had contact, False - No close contact  (default: false)
 2. any_symptoms  = True - I have symptoms,  False - I don't           (default: false)
-3. temp_higher   = 1 - Yes,    0 - No,    -1 - I didn't check         (default: 0    )\
+3. temp_higher   = 1 - Yes,    0 - No,    -1 - I didn't check         (default: 0    )
 
 ## Requirements
 1. python version: python 3.x.x          (anything will do, mine: 3.7.7)
